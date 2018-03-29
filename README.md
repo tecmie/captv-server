@@ -28,14 +28,3 @@ This software is released under GPL3 Term License
 ### FUTURE RELEASES
 I'm working for Linux ready hotspot distro with Espresso Frontend and Espresso-Admin. Will be available for Raspberry Pi 2-3 and X86/x64 platforms.
 
-### AUTHOR
-Emanuele Paiano - nixw0rm [at] gmail [dot] com
-
-***
-
-### SUPPORT ME
-If you like this project, consider a little donation. At least you can offer me a coffee.. :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/emanuelepaiano)
-
-***
